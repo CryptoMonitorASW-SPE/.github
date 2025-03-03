@@ -7,7 +7,7 @@ CryptoMonitor offers the tools to stay informed and make decisions based on know
 
 Follow the istructions in the [Bootstrap](https://github.com/CryptoMonitorASW-SPE/bootstrap.git) repository to deploy _CryptoMonitor_.
 
-## Documenation
+## Documentation
 
 The documentation for Software Process Engineering is available [here](https://cryptomonitorasw-spe.github.io/documentation/).
 
