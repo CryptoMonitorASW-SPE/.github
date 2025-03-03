@@ -13,6 +13,6 @@ The documentation for Software Process Engineering is available [here](https://c
 
 ##  Authors
 
-Luca Tonelli ([TonelliLuca](https://github.com/TonelliLuca))
-Alessandro Becci ([stormtroober](https://github.com/stormtroober))
-Ludovico Nollino ([LudovicoNollino](https://github.com/LudovicoNollino))
+* Luca Tonelli ([TonelliLuca](https://github.com/TonelliLuca))
+* Alessandro Becci ([stormtroober](https://github.com/stormtroober))
+* Ludovico Nollino ([LudovicoNollino](https://github.com/LudovicoNollino))
